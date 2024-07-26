@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appointment-management-system/static/css/main.42d401b0.css",
+    "main.js": "/appointment-management-system/static/js/main.601e0297.js",
+    "static/js/453.742e82cf.chunk.js": "/appointment-management-system/static/js/453.742e82cf.chunk.js",
+    "index.html": "/appointment-management-system/index.html",
+    "main.42d401b0.css.map": "/appointment-management-system/static/css/main.42d401b0.css.map",
+    "main.601e0297.js.map": "/appointment-management-system/static/js/main.601e0297.js.map",
+    "453.742e82cf.chunk.js.map": "/appointment-management-system/static/js/453.742e82cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d401b0.css",
+    "static/js/main.601e0297.js"
+  ]
+}
